@@ -1,0 +1,1 @@
+# AWS-Data-loading-and-time-magnitude-relationship-calculation
